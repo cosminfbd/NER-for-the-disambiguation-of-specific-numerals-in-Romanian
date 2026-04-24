@@ -16,4 +16,5 @@ This research is supervised by LTC. Assoc. Prof. Eng. Ștefan-Adrian Toma.
 
 ## References
 [1] Vasile Dragoș-Mitruț, Ștefania Ștefănescu and Ștefan-Adrian Toma. “Transcription and Identification of Compound and Special Numeral Entities Using Artificial Intelligence and Rule-Based Methods.” The 13th Conference on Speech Technology and Human-Computer Dialogue (SPED 2025), Cluj-Napoca, Romania, 19-22 Oct. 2025.
+
 [2] Stefan Dumitrescu, Andrei-Marius Avram, and Sampo Pyysalo. “The birth of Romanian BERT” in Findings of the Association for Computational Linguistics: EMNLP 2020, pages 4324–4328 [Online]. Association for Computational Linguistics. Available: https://aclanthology.org/2020.findings-emnlp.387
