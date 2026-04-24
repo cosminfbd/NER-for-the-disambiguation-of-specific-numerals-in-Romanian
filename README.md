@@ -11,6 +11,6 @@ This project focuses on enhancing Romanian numeral transcription systems by disa
 ## 📊 Performance Metrics
 | Metric        | Score         |
 | ------------- |:-------------:|
-| Accuracy      | right-aligned |
-| F1-Score      | centered      |
+| Accuracy      | 99.54% |
+| F1-Score      |  95.24%     |
 | Training Epochs | 5           |
